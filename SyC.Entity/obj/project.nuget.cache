@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BZzKSWbTpsvvV5q0GMb00Z3xdsVi1pOWakMXqr0WKxlcZLAl4bO0A2wFYU2RohXlVAfvtpU3UltYtFcfble/2g==",
+  "dgSpecHash": "gFOrKkY9JcX/rgxlke/5/DBI1zpTW3sVlB48weJTFNwiMUd1m9449/g4s861zeDokQ19wtP1+MYlKIgkWiqfxA==",
   "success": true,
-  "projectFilePath": "D:\\EnterProjs\\SyC.Entity\\SyC.Entity.csproj",
+  "projectFilePath": "D:\\SyCproj\\SyC.Entity\\SyC.Entity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

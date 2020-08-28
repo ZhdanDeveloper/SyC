@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2Syi10JW0PmM7xBocA+XVidpPctAA3F8Xr+wLtgrwPk1JrKjmQL/TuooSGWAptGOIHvGhhR4GAEPlZec+P6rJg==",
+  "dgSpecHash": "FCFIVviw/jJTPnedkbpaIsksnmUy25FgCGu2/KQ7GAHy/6R07KW+5cBVG74+hQ/Cnyd451w+sExuWUj+0gun3g==",
   "success": true,
-  "projectFilePath": "D:\\EnterProjs\\SyC.Services\\SyC.Services.csproj",
+  "projectFilePath": "D:\\SyCproj\\SyC.Services\\SyC.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zhdan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Zhdan\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\EnterProjs\\SyC.Entity\\SyC.Entity.csproj": {}
+    "D:\\SyCproj\\SyC.Entity\\SyC.Entity.csproj": {}
   },
   "projects": {
-    "D:\\EnterProjs\\SyC.Entity\\SyC.Entity.csproj": {
+    "D:\\SyCproj\\SyC.Entity\\SyC.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EnterProjs\\SyC.Entity\\SyC.Entity.csproj",
+        "projectUniqueName": "D:\\SyCproj\\SyC.Entity\\SyC.Entity.csproj",
         "projectName": "SyC.Entity",
-        "projectPath": "D:\\EnterProjs\\SyC.Entity\\SyC.Entity.csproj",
+        "projectPath": "D:\\SyCproj\\SyC.Entity\\SyC.Entity.csproj",
         "packagesPath": "C:\\Users\\Zhdan\\.nuget\\packages\\",
-        "outputPath": "D:\\EnterProjs\\SyC.Entity\\obj\\",
+        "outputPath": "D:\\SyCproj\\SyC.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zhdan\\AppData\\Roaming\\NuGet\\NuGet.Config",

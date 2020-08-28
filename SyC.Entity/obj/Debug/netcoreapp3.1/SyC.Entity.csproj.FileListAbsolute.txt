@@ -7,3 +7,12 @@ D:\EnterProjs\SyC.Entity\obj\Debug\netcoreapp3.1\SyC.Entity.AssemblyInfo.cs
 D:\EnterProjs\SyC.Entity\obj\Debug\netcoreapp3.1\SyC.Entity.csproj.CoreCompileInputs.cache
 D:\EnterProjs\SyC.Entity\obj\Debug\netcoreapp3.1\SyC.Entity.dll
 D:\EnterProjs\SyC.Entity\obj\Debug\netcoreapp3.1\SyC.Entity.pdb
+D:\SyCproj\SyC.Entity\bin\Debug\netcoreapp3.1\SyC.Entity.deps.json
+D:\SyCproj\SyC.Entity\bin\Debug\netcoreapp3.1\SyC.Entity.dll
+D:\SyCproj\SyC.Entity\bin\Debug\netcoreapp3.1\SyC.Entity.pdb
+D:\SyCproj\SyC.Entity\obj\Debug\netcoreapp3.1\SyC.Entity.csprojAssemblyReference.cache
+D:\SyCproj\SyC.Entity\obj\Debug\netcoreapp3.1\SyC.Entity.AssemblyInfoInputs.cache
+D:\SyCproj\SyC.Entity\obj\Debug\netcoreapp3.1\SyC.Entity.AssemblyInfo.cs
+D:\SyCproj\SyC.Entity\obj\Debug\netcoreapp3.1\SyC.Entity.csproj.CoreCompileInputs.cache
+D:\SyCproj\SyC.Entity\obj\Debug\netcoreapp3.1\SyC.Entity.dll
+D:\SyCproj\SyC.Entity\obj\Debug\netcoreapp3.1\SyC.Entity.pdb

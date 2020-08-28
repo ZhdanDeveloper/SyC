@@ -66,8 +66,9 @@ namespace SyCC.Controllers
                 if (user == null)
                 {
                     // добавляем пользователя в бд
-                    _context.Users.Add(new User { Email = model.Email, Password = model.Password, Name= model.Name });
-                    await _context.SaveChangesAsync();
+                    await _userService.CreateAsync(new User { Email = model.Email, Password = model.Password, Name = model.Name });
+                    //_context.Users.Add(new User { Email = model.Email, Password = model.Password, Name= model.Name });
+                    
 
                     await Authenticate(model.Password, model.Email); // аутентификация
 

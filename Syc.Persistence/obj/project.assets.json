@@ -5021,11 +5021,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\EnterProjs\\Syc.Persistence\\Syc.Persistence.csproj",
+      "projectUniqueName": "D:\\SyCproj\\Syc.Persistence\\Syc.Persistence.csproj",
       "projectName": "Syc.Persistence",
-      "projectPath": "D:\\EnterProjs\\Syc.Persistence\\Syc.Persistence.csproj",
+      "projectPath": "D:\\SyCproj\\Syc.Persistence\\Syc.Persistence.csproj",
       "packagesPath": "C:\\Users\\Zhdan\\.nuget\\packages\\",
-      "outputPath": "D:\\EnterProjs\\Syc.Persistence\\obj\\",
+      "outputPath": "D:\\SyCproj\\Syc.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zhdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5041,8 +5041,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\EnterProjs\\SyC.Entity\\SyC.Entity.csproj": {
-              "projectPath": "D:\\EnterProjs\\SyC.Entity\\SyC.Entity.csproj"
+            "D:\\SyCproj\\SyC.Entity\\SyC.Entity.csproj": {
+              "projectPath": "D:\\SyCproj\\SyC.Entity\\SyC.Entity.csproj"
             }
           }
         }

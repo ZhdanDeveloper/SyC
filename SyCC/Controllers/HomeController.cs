@@ -76,8 +76,7 @@ namespace SyCC.Controllers
             ClaimsPrincipal currentUser = this.User;
             var currentUserId = currentUser.FindFirst("Id").Value;
             var contactColect = _contactService.GetAllById(Convert.ToInt32(currentUserId));
-            
-            return View(from customer in _context.Contacts where customer.UserId == Convert.ToInt32(currentUserId) select customer);
+            return View(contactColect);
         }
     
        public async Task<IActionResult> Delete(int id)

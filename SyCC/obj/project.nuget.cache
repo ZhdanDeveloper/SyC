@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dOHnJ2CYx4697wPlSYW82qla2ZvisBlvLUi491OPUa2x6bqqpfF4G4AMy1LEDoC5VZ37tVtl6O2wEdT0+kbN8A==",
+  "dgSpecHash": "JhOo73om4+wEtDZpRxC24mkSDm+DUgAGDVhKxnqW5b9WBbtEQWFCy/LqSF2a9Q+fVjLNisklryLDbaeeFJE0DA==",
   "success": true,
-  "projectFilePath": "D:\\EnterProjs\\SyCC\\SyCC.csproj",
+  "projectFilePath": "D:\\SyCproj\\SyCC\\SyCC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zhdan\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Zhdan\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
