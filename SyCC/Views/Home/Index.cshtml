@@ -1,0 +1,67 @@
+﻿@model IEnumerable<SyC.Entity.Contact>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<div class="align-self-center">
+    <h3>Welcome, @User.Identity.Name </h3>
+    <h4>Now you can manage your contacts, choose the action</h4>
+    <hr />
+</div>
+<hr />
+
+<p>
+    <a asp-action="CreateContact">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LasttName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+
+
+        @foreach (SyC.Entity.Contact contact in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => contact.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => contact.LasttName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => contact.Phone)
+            </td>
+            <td>
+                <a class="text-primary" asp-action="Edit" asp-route-id="@contact.Id">
+                    <i class="fas fa-edit"></i> Edit
+                </a>
+                <a class="text-success" asp-action="ViewDetails" asp-route-id="@contact.Id">
+                    <i class="fas fa-bars"></i> Detail
+                </a>
+                <a class="text-danger" asp-action="Delete" asp-route-id="@contact.Id">
+                    <i class="far fa-trash-alt"></i> Delete
+                </a>
+            </td>
+        </tr>
+         }
+
+
+
+    </tbody>
+</table>

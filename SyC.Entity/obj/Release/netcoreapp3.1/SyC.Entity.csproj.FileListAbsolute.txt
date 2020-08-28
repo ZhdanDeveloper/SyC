@@ -1,0 +1,9 @@
+D:\EnterProjs\SyC.Entity\bin\Release\netcoreapp3.1\SyC.Entity.deps.json
+D:\EnterProjs\SyC.Entity\bin\Release\netcoreapp3.1\SyC.Entity.dll
+D:\EnterProjs\SyC.Entity\bin\Release\netcoreapp3.1\SyC.Entity.pdb
+D:\EnterProjs\SyC.Entity\obj\Release\netcoreapp3.1\SyC.Entity.csprojAssemblyReference.cache
+D:\EnterProjs\SyC.Entity\obj\Release\netcoreapp3.1\SyC.Entity.AssemblyInfoInputs.cache
+D:\EnterProjs\SyC.Entity\obj\Release\netcoreapp3.1\SyC.Entity.AssemblyInfo.cs
+D:\EnterProjs\SyC.Entity\obj\Release\netcoreapp3.1\SyC.Entity.csproj.CoreCompileInputs.cache
+D:\EnterProjs\SyC.Entity\obj\Release\netcoreapp3.1\SyC.Entity.dll
+D:\EnterProjs\SyC.Entity\obj\Release\netcoreapp3.1\SyC.Entity.pdb

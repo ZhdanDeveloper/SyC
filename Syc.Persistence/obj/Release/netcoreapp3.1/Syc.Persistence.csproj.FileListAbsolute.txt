@@ -1,0 +1,15 @@
+D:\EnterProjs\Syc.Persistence\bin\Release\netcoreapp3.1\Syc.Persistence.deps.json
+D:\EnterProjs\Syc.Persistence\bin\Release\netcoreapp3.1\Syc.Persistence.runtimeconfig.json
+D:\EnterProjs\Syc.Persistence\bin\Release\netcoreapp3.1\Syc.Persistence.runtimeconfig.dev.json
+D:\EnterProjs\Syc.Persistence\bin\Release\netcoreapp3.1\Syc.Persistence.dll
+D:\EnterProjs\Syc.Persistence\bin\Release\netcoreapp3.1\Syc.Persistence.pdb
+D:\EnterProjs\Syc.Persistence\bin\Release\netcoreapp3.1\SyC.Entity.dll
+D:\EnterProjs\Syc.Persistence\bin\Release\netcoreapp3.1\SyC.Entity.pdb
+D:\EnterProjs\Syc.Persistence\obj\Release\netcoreapp3.1\Syc.Persistence.csprojAssemblyReference.cache
+D:\EnterProjs\Syc.Persistence\obj\Release\netcoreapp3.1\Syc.Persistence.AssemblyInfoInputs.cache
+D:\EnterProjs\Syc.Persistence\obj\Release\netcoreapp3.1\Syc.Persistence.AssemblyInfo.cs
+D:\EnterProjs\Syc.Persistence\obj\Release\netcoreapp3.1\Syc.Persistence.csproj.CoreCompileInputs.cache
+D:\EnterProjs\Syc.Persistence\obj\Release\netcoreapp3.1\Syc.Persistence.csproj.CopyComplete
+D:\EnterProjs\Syc.Persistence\obj\Release\netcoreapp3.1\Syc.Persistence.dll
+D:\EnterProjs\Syc.Persistence\obj\Release\netcoreapp3.1\Syc.Persistence.pdb
+D:\EnterProjs\Syc.Persistence\obj\Release\netcoreapp3.1\Syc.Persistence.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\EnterProjs\SyC.Services\bin\Debug\netcoreapp3.1\SyC.Services.deps.json
+D:\EnterProjs\SyC.Services\bin\Debug\netcoreapp3.1\SyC.Services.dll
+D:\EnterProjs\SyC.Services\bin\Debug\netcoreapp3.1\SyC.Services.pdb
+D:\EnterProjs\SyC.Services\obj\Debug\netcoreapp3.1\SyC.Services.csprojAssemblyReference.cache
+D:\EnterProjs\SyC.Services\obj\Debug\netcoreapp3.1\SyC.Services.AssemblyInfoInputs.cache
+D:\EnterProjs\SyC.Services\obj\Debug\netcoreapp3.1\SyC.Services.AssemblyInfo.cs
+D:\EnterProjs\SyC.Services\obj\Debug\netcoreapp3.1\SyC.Services.csproj.CoreCompileInputs.cache
+D:\EnterProjs\SyC.Services\obj\Debug\netcoreapp3.1\SyC.Services.dll
+D:\EnterProjs\SyC.Services\obj\Debug\netcoreapp3.1\SyC.Services.pdb
+D:\EnterProjs\SyC.Services\bin\Debug\netcoreapp3.1\SyC.Entity.dll
+D:\EnterProjs\SyC.Services\bin\Debug\netcoreapp3.1\Syc.Persistence.dll
+D:\EnterProjs\SyC.Services\bin\Debug\netcoreapp3.1\SyC.Entity.pdb
+D:\EnterProjs\SyC.Services\bin\Debug\netcoreapp3.1\Syc.Persistence.pdb
+D:\EnterProjs\SyC.Services\obj\Debug\netcoreapp3.1\SyC.Services.csproj.CopyComplete
