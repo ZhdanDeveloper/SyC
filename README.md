@@ -1,3 +1,3 @@
 # SyC - Save your contacts
 
-## just a small app to save your contacts(kinda phone book)
+## just a small app to save your contacts(kinda phone book) [My first MVC project]
